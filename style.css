@@ -1,0 +1,29 @@
+<style>
+            body{
+                font-family:cursive;
+            }
+            h1{
+                color:#332D2D;
+                background-color:#FBFBFB;
+                text-align:center;
+            }
+            label,a,a:hover{
+                color:#FBFBFB;
+                background-color:#332D2D;
+                text-align:center;
+            }
+            input[type="text"]{
+                background-color:#DC4C64;
+                color:#FBFBFB;
+                font-family:monospace;
+            }
+            img{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 10%;
+            }
+            ::placeholder{
+                color:#FBFBFB
+            }
+        </style>
